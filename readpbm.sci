@@ -1,7 +1,6 @@
 // reading image PGM RAW (8 bits) (PBM)
 // usage: img = readpbm('image.pbm');
-
-filename="Earth.pbm"
+filename='Earth.pbm'
 function image=readpbm(filename)  
   [u,err]=mopen(filename,'rb')
   if err<>0 then error('Error opening file '+filename), end
