@@ -1,4 +1,4 @@
-img = imread('chat.jpg');
+img = imread('GD61.pbm');
 img = uint8 (img);
 scf(0);
 imshow(img);

@@ -1,5 +1,5 @@
 q = ['binary' , 'butterworth1','butterworth2','butterworth3','exp','gauss','trapeze'];
-image = imread('chat.jpg');
+image = imread('Gliese 581d V2.pbm');
 scf(0);
 imshow(image);
 for i=1:7

@@ -1,4 +1,4 @@
-im = imread('chat.jpg');
+im = imread('GD61.pbm');
 scf(0);
 imshow(im);
 filter= fspecial('prewitt');
