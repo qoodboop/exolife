@@ -1,11 +1,11 @@
-img = imread('Gliese 581d.pbm');
+img = imread('U1_surface.pbm');
 img = uint8 (img);
 scf(0);
 imshow(img);
 noyau = [
-1/10 1/10 1/10
-1/10 1/3 1/10
-1/10 1/10 1/10
+0 -1 0
+-1 5 -1
+0 -1 0
 ]
 
 img1=imfilter(img,noyau);
