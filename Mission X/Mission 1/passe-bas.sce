@@ -1,4 +1,5 @@
-img = imread('chat.jpg');
+//img = imread('chat.jpg');
+img = imgN ;
 img = uint8 (img);
 scf(0);
 imshow(img);

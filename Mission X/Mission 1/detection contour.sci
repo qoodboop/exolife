@@ -1,6 +1,7 @@
-im = imread('chat.jpg');
+//im = imread('chat.jpg');
+im = imgN
 d =['prewitt','sobel','canny','prewitt','log','ffderiv']
-im = rgb2gray(im);
+//im = rgb2gray(im);
 scf(0);
 imshow(im);
 

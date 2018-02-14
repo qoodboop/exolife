@@ -1,5 +1,5 @@
 image = imread('HD215497.pbm');
-tolerance = 20
+tolerance = 10
 [w,h]=size(image);
 render = zeros(w,h);
 for i=1:w
@@ -11,7 +11,7 @@ for i=1:w
           ncx = 2 
           for y=1:3
               for x=1:3
-                valeur(length(valeur)+1)=image(j+(x-ncx),i+(y-ncy))
+                valeur(length(valeur)+1)=image(i+(x-ncx),j+(y-ncy))
      end
 end
 
