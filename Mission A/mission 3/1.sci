@@ -1,4 +1,4 @@
-im = imread('chat.jpg');
+im = imread('Europa_surface.pbm');
 scf(0);
 imshow(im);
 filter= fspecial('prewitt');
