@@ -1,32 +1,32 @@
 exolife
 
 1. Mission A  
-	*A1
+	-  A1
 
-	*A2
+	- A2
 
-	*A3
+	-  A3
 
-	*A4
+	-  A4
 
 2. Mission B
 
-	*B1
+	-  B1
 
-	*B2
+	-  B2
 
-	*B3
+	-  B3
 
 3. Mission U
 
-	*U1
+	-  U1
 
-	*U2
+	*  U2
 
-	*U3
+	*  U3
 
 4. Mission X
 	
 	-  X1
 
-	*X2
+	* X2
