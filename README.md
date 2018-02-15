@@ -1,9 +1,9 @@
 exolife
 
-1. Mission A  
+1. Mission A   [Mission A](https://github.com/qoodboop/exolife/tree/ammar/Mission%20A/mission%201)
 	-  A1
 
-	- A2
+	-  A2
 
 	-  A3
 
@@ -21,12 +21,12 @@ exolife
 
 	-  U1
 
-	*  U2
+	-  U2
 
-	*  U3
+	-  U3
 
 4. Mission X
 	
 	-  X1
 
-	* X2
+	-  X2
