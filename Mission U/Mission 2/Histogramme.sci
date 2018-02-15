@@ -1,4 +1,4 @@
-img = imread('marbles.png');
+img = imread('U2_surface.pbm');
 scf(0);
 imshow(img);
 hist= zeros(1,256) ;

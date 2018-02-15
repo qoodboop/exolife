@@ -28,4 +28,4 @@ end
 end
 end
 end
-imshow(render)
+imshow(render).
