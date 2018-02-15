@@ -2,8 +2,11 @@ exolife
 
 1. Mission A
 	*A1
+
 	*A2
+
 	*A3
+
 	*A4
 
 2. Mission B
