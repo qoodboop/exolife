@@ -1,6 +1,6 @@
 exolife
 
-1.[Mission A](https://github.com/qoodboop/exolife/tree/ammar/Mission%20A/mission%201)
+1.[Mission A](https://github.com/qoodboop/exolife/tree/ammar/Mission%20A)
 
 	-  [A1](https://github.com/qoodboop/exolife/tree/ammar/Mission%20A/mission%201)
 
